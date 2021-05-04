@@ -1,4 +1,4 @@
-# Default community health files for OGHO
+# Default community health files for Oracle's GitHub Organization
 
 This repo contains the organisation-wide default community health files for the
 [Oracle GitHub Organisation (OGHO)](https://github.com/oracle).
