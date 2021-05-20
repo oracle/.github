@@ -52,4 +52,11 @@ having signed the OCA.
    your changes. Ensure that you reference the issue you created as well.
 1. We will assign the pull request to specific people for review before it is merged.
 
+## Code of conduct
+
+Our [Code of Conduct](./CODE_OF_CONDUCT.md) is adapted from the
+[Contributor Covenant][CC], version 1.4, available at
+ <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>.
+
 [OCA]: https://oca.opensource.oracle.com
+[CC]: https://www.contributor-covenant.org
