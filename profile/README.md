@@ -13,19 +13,19 @@ Our mission is to empower developers and continue supporting open source technol
 
 [Learn about open source at Oracle](https://developer.oracle.com/open-source/)
 
-[Join Oracle's developer community](https://developer.oracle.com/)<br><br>
+[Join Oracle's developer community](https://bit.ly/odevrel_slack)<br><br>
 
 ## All Oracle GitHub organizations
 
-* [Oracle on GitHub](https://github.com/oracle)
-* [AddThis](https://github.com/addthis)
-* [Fn Project](https://github.com/fnproject)
-* [Java Community Process](https://github.com/jcp-org)
-* [Java EE](https://github.com/javaee)
-* [MySQL](https://github.com/mysql)
-* [Oracle DevRel](https://github.com/oracle-devrel)
-* [Oracle GitHub Actions](https://github.com/oracle-actions)
-* [Oracle LiveLabs](https://github.com/oracle-livelabs)
-* [Oracle Sample Projects](https://github.com/oracle-samples)
-* [Oracle Terraform Modules](https://github.com/oracle-terraform-module)
-* [Verrazzano](https://github.com/verrazzano)
+* [Oracle](https://github.com/oracle) – the main Oracle GitHub organization
+* [AddThis](https://github.com/addthis)- a social sharing platform
+* [Fn Project](https://github.com/fnproject) – the container native, cloud agnostic serverless platform
+* [Java Community Process](https://github.com/jcp-org) – developing standard technical specifications for Java technology
+* [Java EE](https://github.com/javaee) – the Java Enterprise Edition platform
+* [MySQL](https://github.com/mysql) –  the world's most popular open source database
+* [Oracle DevRel](https://github.com/oracle-devrel) – developer code samples, tutorials, and more
+* [Oracle GitHub Actions](https://github.com/oracle-actions) – GitHub Actions from Oracle
+* [Oracle Quick Start](https://github.com/oracle-quickstart) – automated deployments of enterprise software on OCI
+* [Oracle Sample Projects](https://github.com/oracle-samples) – new projects and sample applications 
+* [Oracle Terraform Modules](https://github.com/oracle-terraform-modules) – Terraform modules for provisioning cloud resources
+* [Verrazzano](https://github.com/verrazzano) – an open source enterprise container platform curated by Oracle
