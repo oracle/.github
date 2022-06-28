@@ -23,6 +23,7 @@ Our mission is to empower developers and continue supporting open source technol
 * [Java Community Process](https://github.com/jcp-org) – developing standard technical specifications for Java technology
 * [Java EE](https://github.com/javaee) – the Java Enterprise Edition platform
 * [MySQL](https://github.com/mysql) –  the world's most popular open source database
+* [OpenJDK](https://github.com/openjdk/) – OpenJDK development and related repositories
 * [Oracle DevRel](https://github.com/oracle-devrel) – developer code samples, tutorials, and more
 * [Oracle GitHub Actions](https://github.com/oracle-actions) – GitHub Actions from Oracle
 * [Oracle Sample Projects](https://github.com/oracle-samples) – new projects and sample applications 
