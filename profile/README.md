@@ -18,7 +18,6 @@ Our mission is to empower developers and continue supporting open source technol
 ## All Oracle GitHub organizations
 
 * [Oracle](https://github.com/oracle) – our primary GitHub organization
-* [AddThis](https://github.com/addthis) – a social sharing platform
 * [Fn Project](https://github.com/fnproject) – the container native, cloud agnostic serverless platform
 * [Java Community Process](https://github.com/jcp-org) – developing standard technical specifications for Java technology
 * [Java EE](https://github.com/javaee) – the Java Enterprise Edition platform
