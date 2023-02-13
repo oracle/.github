@@ -7,7 +7,7 @@ Oracle is the purveyor of the industry’s most widely adopted open source techn
 
 But what has guided us along the way?
 
-Our mission is to empower developers and continue supporting open source technologies. Through Oracle Cloud Infrastructure and its 39 cloud regions, we’re providing more opportunities than ever to make open source technology available to everyone.<br><br>
+Our mission is to empower developers and continue supporting open source technologies. Through Oracle Cloud Infrastructure and its 41 cloud regions, we’re providing more opportunities than ever to make open source technology available to everyone.<br><br>
 
 ## Get Started
 
