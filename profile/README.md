@@ -3,7 +3,7 @@
 
 # Open Source at Oracle
 
-Oracle is the purveyor of the industry’s most widely adopted open source technologies, such as [Java](https://openjdk.java.net/) and [MySQL](https://www.mysql.com/), and one of the founding members of the [Linux Foundation](https://linuxfoundation.org/), the [Eclipse Foundation](https://www.eclipse.org/), and the [Java Community Process](https://jcp.org/en/home/index).
+Oracle is the purveyor of the industry’s most widely adopted open source technologies, such as [Java](https://openjdk.org/) and [MySQL](https://www.mysql.com/), and one of the founding members of the [Linux Foundation](https://linuxfoundation.org/), the [Eclipse Foundation](https://www.eclipse.org/), and the [Java Community Process](https://jcp.org/en/home/index).
 
 But what has guided us along the way?
 
