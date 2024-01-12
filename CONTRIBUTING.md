@@ -16,7 +16,7 @@ fixed.
 ## Pre-requisites for code or documentation submissions
 
 Before we can review or accept any source code or documentation-related
-contribution, you will need digitally sign the [Oracle Contributor Agreement][OCA]
+contribution, you will need to digitally sign the [Oracle Contributor Agreement][OCA]
 (OCA) using the OCA Signing Service. This only needs to be done once, so if
 you've signed it for another repo or project, there is no need to sign again.
 
