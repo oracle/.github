@@ -22,7 +22,6 @@ Our mission is to empower developers and continue supporting open source technol
 * [GraalVM](https://github.com/graalvm) - projects related to GraalVM, a high-performance JDK with native compilation
 * [Helidon](https://github.com/helidon-io) – cloud-native set of Java libraries for writing microservices
 * [Java Community Process](https://github.com/jcp-org) – developing standard technical specifications for Java technology
-* [Java EE](https://github.com/javaee) – the Java Enterprise Edition platform
 * [LiveLabs](https://github.com/oracle-livelabs) – workshops for building and deploying applications using Oracle's technologies
 * [MySQL](https://github.com/mysql) –  the world's most popular open source database
 * [OpenJDK](https://github.com/openjdk/) – OpenJDK development and related repositories
