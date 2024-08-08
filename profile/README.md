@@ -24,6 +24,7 @@ Our mission is to empower developers and continue supporting open source technol
 * [Java Community Process](https://github.com/jcp-org) – developing standard technical specifications for Java technology
 * [LiveLabs](https://github.com/oracle-livelabs) – workshops for building and deploying applications using Oracle's technologies
 * [MySQL](https://github.com/mysql) –  the world's most popular open source database
+* [OCI Landing Zones](https://github.com/oci-landing-zones) – landing zones for automated deployment of OCI services
 * [OpenJDK](https://github.com/openjdk/) – OpenJDK development and related repositories
 * [Oracle DevRel](https://github.com/oracle-devrel) – developer code samples, tutorials, and more
 * [Oracle GitHub Actions](https://github.com/oracle-actions) – GitHub Actions from Oracle
