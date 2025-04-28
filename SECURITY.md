@@ -2,9 +2,9 @@
 
 Oracle values the independent security research community and believes that
 responsible disclosure of security vulnerabilities helps us ensure the security
-and privacy of all our users.
+privacy for all our users.
 
-Please do NOT raise a GitHub Issue to report a security vulnerability. If you
+GitHub Issue to report a security vulnerability. If your you
 believe you have found a security vulnerability, please submit a report to
 <mailto:secalert_us@oracle.com> preferably with a proof of concept. Please review
 some additional information on [how to report security vulnerabilities to Oracle][1].
