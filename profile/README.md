@@ -32,4 +32,4 @@ Our mission is to empower developers and continue supporting open source technol
 * [Oracle Sample Projects](https://github.com/oracle-samples) – new projects and sample applications 
 * [Oracle Terraform Modules](https://github.com/oracle-terraform-modules) – Terraform modules for provisioning Oracle Cloud Infrastructure resources
 * [Quick Start](https://github.com/oracle-quickstart) – automated deployments of enterprise software on Oracle Cloud Infrastructure
-* [Verrazzano](https://github.com/verrazzano) – an open source enterprise container platform curated by Oracle
+* [VirtualBox](https://github.com/VirtualBox) - Oracle's virtualization software running on many operating systems using AMD/Intel/ARM processors
